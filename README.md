@@ -2,7 +2,7 @@
 
 Mediverse is a cross-platform clinic management system designed to streamline medical services for patients, doctors, and administrators. The platform enables patients to book appointments, access their medical records, and receive notifications, while doctors can manage schedules, issue prescriptions, and follow up on cases. Admins and staff benefit from automated billing, performance tracking, and full control over clinic operations.
 
-✨ Featuresm :
+✨ Features :
 
  Secure user registration and login (Patient, Doctor, Secretary, Admin, LabTech)
  Browse clinics and view doctor profiles
